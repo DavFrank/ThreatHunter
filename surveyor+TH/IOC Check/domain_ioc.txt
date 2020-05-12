@@ -1,0 +1,3 @@
+weather.com
+bing.com
+google.com

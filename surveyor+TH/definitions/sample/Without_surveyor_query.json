@@ -1,0 +1,7 @@
+{
+  "powershell": {
+    "process_name": [
+      "powershell.exe"
+    ]
+  }
+}
